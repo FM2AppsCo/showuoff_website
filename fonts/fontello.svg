@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2017 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="light-bulb" unicode="&#xe800;" d="M845 534c0-142-141-281-141-425h-284c0 139-141 283-141 425 0 156 127 283 283 283 156 0 283-127 283-283z m-177-567h-212c-20 0-36-16-36-35s16-36 36-36h6c15-41 54-70 100-70s85 29 100 70h6c20 0 36 16 36 36s-16 35-36 35z m0 107h-212c-20 0-36-16-36-36s16-35 36-35h212c20 0 36 16 36 35s-16 36-36 36z" horiz-adv-x="577" />
+</font>
+</defs>
+</svg>

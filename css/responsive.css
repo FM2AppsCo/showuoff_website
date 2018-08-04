@@ -1,0 +1,235 @@
+
+/**************         global           ****************/
+
+@media screen and (max-width: 1199px){
+	
+}
+@media screen and (max-width: 1198px){
+	
+}
+@media screen and (max-width: 1100px){
+	.feature_div > ul > li {
+  margin: 10px;
+  }
+  .feature-title {
+  min-height: 310px;
+  }
+}
+@media screen and (max-width: 1065px){
+	
+}
+@media screen and (max-width: 1025px){
+  .feature-title {
+  padding: 20px;
+  }
+  
+	
+}
+@media screen and (max-width: 992px){
+  .header-sec > .container {
+  width: 100%;
+  }
+  .quote-sec .container.p-0 {
+  width: 100%;
+  float: left;
+  }
+  /*.influencer-nav {
+  float: left;
+  text-align: center;
+  width: 100%;
+}
+.influencer-nav .navbar-header {
+  float: unset;
+}
+.navbar-brand.logo-main {
+  width: 100%;
+  float: left;
+  display: block;
+  text-align: center;
+}
+.logo-main img {
+  display: inline-block;
+  float: unset;
+  max-width: 170px;
+  width: 100%;
+}*/
+
+.navbar-menus > li > a {
+  padding: 13px 8px;
+}
+.navbar-menus > li > a.btn-cus {
+  margin: 6px 0 0;
+  padding: 7px 6px;
+}
+  .how-app {
+  height: 700px;
+  }
+  .feature-title {
+  margin-top: 40px;
+  }
+  .shadow-div img {
+  display: inline-block;
+  text-align: center;
+  width: 320px;
+  }
+  .last_feature {
+  margin: 0 0 40px 0px;
+  }
+	.how-app {
+  	background-color: #86a9e7;
+  	background-image: none;
+  	}
+  	.subscribe .subscribe2 {
+  	margin-right: auto;
+	}	
+  .shadow-div img {
+    margin-left: auto;
+   }
+}
+@media screen and (max-width: 820px){
+  .logo-main img {
+  max-width: 109px;
+  margin-top: 6px;
+}
+}
+@media screen and (max-width: 767px){
+  .image_inner::after {
+  margin: auto;
+  }
+  .footer-inner .logo-main {
+  width: 100%;
+  float: left;
+  }
+  .dwn-app {
+  margin-top: auto;
+  }
+  .how-app {
+  height: 850px;
+  }
+  .influencer-nav {
+  float: left;
+  width: 100%;
+  }
+  .influencer-nav .navbar-header {
+  float: unset;
+  width: 100%;
+  }
+  /*.navbar-brand.logo-main {
+  display: block;
+  float: left;
+  text-align: center;
+  width: auto;
+}*/
+	.features h1 {
+  	padding-top: 0;
+  	}	
+  	.feature-title {
+  	margin-bottom: 20px;
+	}
+	.last_feature {
+  	margin: 0;
+  	}
+  	.image_inner {
+  	margin: 20px 0;
+  	}
+  	.recent_menus {
+  	float: left;
+  	margin: 40px 0;
+	}
+	.newsletter h1 {
+  	text-align: left;
+	}
+	.newsletter h1::after {
+  	left: calc(9% - 10px);
+  	}
+  	.footer-sec {
+  	padding: 20px 0 40px;
+  	}
+  	.influencer-nav > .navbar-header > .navbar-toggle {
+  	background-color: #fff;
+  	}
+  	.influencer-nav .navbar-header > .navbar-toggle .icon-bar {
+  	background: #999;
+	}
+	.influencer-nav .navbar-header {
+  	margin-bottom: 10px;
+	}
+	.influencer-nav .navbar-collapse {
+  	background: #fff none repeat scroll 0 0;
+  	padding: 0;
+	}
+	.influencer-nav .padding-121 > .navbar-menus > li > a {
+  	color: #000;
+  	}
+  	.influencer-nav .padding-121 > .navbar-menus > li > a:hover {
+  	color: #F06620;
+  	background: #f9f9f9;
+  	}
+  	.influencer-nav > .padding-121 > .navbar-menus > li {
+  	width: 100%;
+	}
+	.navbar-menus > li > a.btn-cus {
+  	margin: 10px 10px 18px 10px;
+  	}
+  	.influencer-nav .padding-121 > .navbar-menus > li > a.btn-cus:hover{
+  		background: #F06620;
+  		color: #fff;
+  	}
+  	.how-app h1 {
+  	padding-top: 0;
+  	}
+    
+}
+@media screen and (max-width: 640px){
+  .how-app {
+  height: 880px;
+  }
+}
+@media screen and (max-width: 505px){
+  .feature_div > ul > li {
+  float: unset;
+  list-style: outside none none;
+  }
+  .feature-title {
+  max-width: 100%;
+  }
+}
+@media screen and (max-width: 480px){
+  .li_social-icons {
+  display: inline-block;
+  float: left;
+  margin-top: 3px;
+  text-align: center;
+  width: 100%;
+  }
+  .social-links {
+  display: inline-block;
+  float: unset;
+}
+  .home {
+  height: 800px;
+  }
+  .feature_div > ul > li {
+  float: unset;
+  }
+  .feature-title {
+  max-width: 100%;
+  }
+  .how-app {
+  height: 960px;
+  } 	
+}
+
+@media screen and (max-width: 480px){
+  .how-app {
+  height: 1060px;
+  }
+  .shadow-div img {
+  width: 270px;
+  }
+}
+@media screen and (max-width: 320px){
+  .how-app {
+  height: 1050px;
+  }
+}
